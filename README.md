@@ -37,14 +37,14 @@ By default, includes 5 digits of accuracy after the decimal. Can override with t
 
 ```js
 randomDepth({ fixed: 2 })
-=> -1542.11
+// => -1542.11
 ```
 
 By default, maximum (or minimum depending on your frame of reference) depth of `-2550` (depth of the Mariana Trench), but this can be overridden with the `min` option.
 
 ```js
 randomDepth({ min: -1000 })
-=> -718.41976
+// => -718.41976
 ```
 
 ## Related
