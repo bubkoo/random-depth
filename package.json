@@ -1,6 +1,6 @@
 {
   "name": "random-depth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a random depth, in meters. Depths are always negative.",
   "scripts": {
     "lint": "jshint index.js",
@@ -44,6 +44,6 @@
   "dependencies": {
     "clamp": "^1.0.1",
     "object-assign": "^4.0.1",
-    "random-floating": "^1.0.0"
+    "random-floating": "^1.0.1"
   }
 }
